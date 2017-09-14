@@ -6,7 +6,9 @@ public class Hello {
 		System.out.println("Hello World");
 		
 		System.out.println("Hello R");
-		System.out.println("Hello Saharat");
-		
+		System.out.println("Hello S");
+		System.out.println("Hello Sa");
+		System.out.println("Hello Sah");
+		System.out.println("Hello Sah");
 	}
 }
