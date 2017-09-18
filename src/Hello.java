@@ -10,10 +10,7 @@ public class Hello {
 		System.out.println("Hello Sa");
 		System.out.println("Hello Sah");
 		System.out.println("Hello Sah");
-
 		System.out.println("Hello Saharat");
-		
-		
 		System.out.println("Hello TestTest");
 		
 
